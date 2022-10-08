@@ -1,0 +1,1 @@
+[{"error":"The argument 'file' cannot be empty. Received ''","cmd":"$verify"},{"error":"nunu is not defined","cmd":"listsewa"},{"error":"Cannot read properties of null (reading 'quotedMessage')","cmd":"sticker"},{"error":"tiktokdlV2 is not defined","cmd":"tiktok"},{"error":"Cannot access 'nomerOwner' before initialization","cmd":"infobotz"}]
