@@ -1,6 +1,6 @@
-global.nomerOwner = "6289616859214"
+global.nomerOwner = "'6289616859214','6285777451314'"
 global.runWith = "panel"
-global.ownerName = "maajid"
+global.ownerName = "@MAAJID"
 global.botName = "Elaina Botz" 
 global.sessionName = "session"
 global.setmenu = "document"
