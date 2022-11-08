@@ -74,7 +74,7 @@ buttonId: `y`,
 buttonText: { 
 displayText: "Nitip gorengan" },
 type: 1 }
-];   
+] 
 
  
 
